@@ -1,0 +1,38 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\bin\Debug\ANAOKULU.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\bin\Debug\ANAOKULU.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.GirişSayfası.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.KayıtEkleme.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.Yönetici.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.Ögretmen.resources
+C:\Users\Kübra\Desktop\New folder\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.exe
+C:\Users\Kübra\Desktop\New folder\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.pdb
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.exe
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.pdb
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\bin\Debug\ANAOKULU.exe
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\bin\Debug\ANAOKULU.pdb
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.csprojResolveAssemblyReference.cache
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.Properties.Resources.resources
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.csproj.GenerateResource.Cache
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.GirisSayfasi.resources
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.KayitEkleme.resources
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.OgretmenKayıtEkleme.resources
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.Yonetici.resources
+C:\Users\Kübra\Desktop\anaokulu\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.Ogretmen.resources
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.exe
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.pdb
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\bin\Debug\ANAOKULU.exe
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\bin\Debug\ANAOKULU.pdb
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.GirisSayfasi.resources
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.KayitEkleme.resources
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.OgretmenKayıtEkleme.resources
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.Properties.Resources.resources
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.Yonetici.resources
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.Ogretmen.resources
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.csproj.GenerateResource.Cache
+C:\Users\Kübra\Desktop\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.csprojResolveAssemblyReference.cache
+D:\KÜBRA\KÜBRA\BM\3.SINIF\120100010050-120100010052\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.exe
+D:\KÜBRA\KÜBRA\BM\3.SINIF\120100010050-120100010052\proje\ANAOKULU\ANAOKULU\obj\x86\Debug\ANAOKULU.pdb
